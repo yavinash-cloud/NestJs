@@ -130,6 +130,7 @@ Entities
 The entity is the place you will get the information of the database to your application, using typeorm in this case, is an easy way to make SQL queries, its kinda MongoDB commands for more please go to typeorm.
 
  Final Notes:
+ 
 ⦁	NestJS adopted both TypeScript and Angular features.
 ⦁	NestJS uses TypeORM which gives leverage to connect with SQL and NoSQL databases.
 ⦁	Since NestJs is an Abstraction over the NodeJS. So we can use NodeJS libraries
